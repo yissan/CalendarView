@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a3e0800c563b891eade5a30276983ec8036f10c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_772d5fec8f40f1831f49b99d3c4fcb4cc5123071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e200393f505efe4cff358fd32cf0c6102a8b5aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_600db456610459f6bdbd85aa31f4e19fb3bb07d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e1583f4451ff9b7536a610bd598578d9c769614e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_47d4db46198b3ede79843546c6e1c2bc0aced41a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c25e786da646fa1f787d9a6bdc0e2f4fbb081544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d7eec3a0263710c922346887832d3c4c4582179">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adf17efa558d5a4b9cbaed9eecc0fe38701552eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f8c7920c7ef835b35001377df2cf18296a2de1f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_936aa90fa10d7f4fabbb3f7cea0fbeed4465c70c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1d48f798c7537c7f740ff18bf1d3e12a35764032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ff2f76d3bbde938cd06b045f61b251c9a0c88151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ce29b3b12625179aa2b6a5dd6e445b86ef3e420a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1ec69969685850df7f345ee55cd37abbd64aa49b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/android-sdk-mac_x86/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_561bd85c8ffa77022f20407e7a8124551d6d2968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="160328b75d3e900a3556ea3fae6f01823c67a24d">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_856647af509ef1a17aa9324d3cf34c6bed30e43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/yangqiangyu/android/practice/CommonCalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_195c4edc83f3142e31c945f198b3bce30f4cf45c/classes.dex" />
+    </item>
+
+</items>

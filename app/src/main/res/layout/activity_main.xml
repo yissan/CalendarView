@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.qiangyu.test.commoncalendarview.MainActivity">
+
+    <Button
+        android:id="@+id/simple_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="simpleView"
+        android:text="简单展示日历"/>
+
+    <Button
+        android:id="@+id/other_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showOtherInfo"
+        android:text="展示附加信息"/>
+</LinearLayout>

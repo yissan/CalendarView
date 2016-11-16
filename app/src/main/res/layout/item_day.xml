@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="73dp"
+    android:orientation="vertical"
+    android:background="@drawable/calendar_day_bg">
+
+    <TextView
+        android:id="@+id/stock_tv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center|bottom"
+        android:textSize="10sp"
+        android:paddingBottom="3dp"
+        android:textColor="@drawable/calendar_day_font"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/day_tv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@drawable/calendar_day_font"
+        android:text="1"/>
+
+    <!--android:textColor="#ff850f"-->
+    <TextView
+        android:id="@+id/price_tv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/colorText"
+        android:gravity="center|bottom"
+        android:text="¥ 336"
+        android:textSize="10sp"/>
+
+    <View
+        android:id="@+id/line_view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#e1e1e1"/>
+</LinearLayout>
